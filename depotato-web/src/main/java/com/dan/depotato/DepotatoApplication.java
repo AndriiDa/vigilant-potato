@@ -8,6 +8,8 @@ public class DepotatoApplication {
 
   public static void main(String[] args) {
     SpringApplication.run(DepotatoApplication.class, args);
+
+
   }
 
 }
